@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.netflix-section {
+    height: 100vh;
+
+    background-size: cover;
+    background-image: url("https://res.cloudinary.com/dh59tkqyi/image/upload/v1706340193/1_5lyavS59mazOFnb55Z6znQ_k9xphk.png");
+}
+
+.netflix-logo {
+    height: 50px;
+    width: 70px;
+    position: absolute;
+    top: 0px;
+
+}
+
+.language {
+    height: 35px;
+    width: 100px;
+    position: absolute;
+    top: 0px;
+    right: 80px;
+}
+
+
+
+.button {
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 35px;
+    width: 70px;
+    text-align: center;
+    padding: 5px;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+
+
+}
+
+
+
+
+.netflix-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+    padding-top: 150px;
+
+    font-weight: bold;
+}
+
+.netflix-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+
+
+}
+
+.emailAddress {
+    color: #ffffff;
+    width: 80%;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    border: none;
+    background-color: #00000;
+}
+
+.getstarted-button {
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 35px;
+    width: 130px;
+    padding: 5px;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    margin: 10px;
+
+
+
+}
+
+
+.icon {
+    color: #ffffff;
+    position: absolute;
+    right: 0px;
+
+
+}
+
+.netflix-section1 {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: #000000;
+    padding: 90px;
+    margin-top: 5px;
+}
+
+.sec1-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+    padding: 10px;
+
+
+}
+
+.sec1-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding-top: 10px;
+
+}
+
+.sec1-image {
+    width: 100%;
+    margin: 5px;
+
+}
+
+.netflix-section2 {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: #000000;
+    padding: 90px;
+    margin-top: 5px;
+}
+
+.sec2-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+    padding: 10px;
+
+}
+
+.sec2-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding-top: 10px;
+
+}
+
+.sec2-image {
+    width: 100%;
+    margin: 5px;
+}
+
+.netflix-section3 {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: #000000;
+    padding: 90px;
+    margin-top: 5px;
+}
+
+.sec3-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+    padding: 10px;
+
+}
+
+.sec3-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding-top: 10px;
+
+}
+
+.sec3-image {
+    width: 100%;
+    margin: 5px;
+}
+
+.netflix-section4 {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: #000000;
+    padding: 90px;
+    margin-top: 5px;
+}
+
+.sec4-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.sec4-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+
+}
+
+.sec4-image {
+    width: 100%;
+    margin: 5px;
+}
+
+.netflix-section5 {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: #000000;
+    padding: 90px;
+    margin-top: 5px;
+}
+
+.sec5-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 700;
+
+
+}
+
+.questions-card {
+    padding: 10px;
+    width: 100%;
+    background-color: #1e1e1e;
+    background-size: cover;
+    margin: 5px;
+}
+
+.question {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Roboto";
+    padding: 2px;
+    margin: 2px;
+
+}
